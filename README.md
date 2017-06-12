@@ -1,5 +1,7 @@
-#How to Rewrite or Override a Block, a Helper, a Model or a Controller in Magento 2.
+# How to Rewrite or Override a Block, a Helper, a Model or a Controller in Magento 2
+
 Author: Ngo Quang Cuong
+
 Channel: https://www.youtube.com/channel/UCVlVTjx6M6PyPHjS6FN-PHg
 
 Hi everybody!, I'm Cuong, Welcome you to come back my channel. 
