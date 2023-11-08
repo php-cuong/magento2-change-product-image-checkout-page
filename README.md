@@ -2,7 +2,7 @@
 
 Author: Ngo Quang Cuong
 
-Channel: https://www.youtube.com/channel/UCVlVTjx6M6PyPHjS6FN-PHg
+Youtube Channel: [https://www.youtube.com/channel/UCVlVTjx6M6PyPHjS6FN-PHg](https://www.youtube.com/channel/UCNpj9afkPVgk_yT7o9uA_9A)
 
 Hi everybody!, I'm Cuong, Welcome you to come back my channel. 
 
@@ -19,4 +19,4 @@ Exercise 1: To redirect the customer to the checkout page when adding a product 
 Exercise 2: To change the image of all the product on the checkout page.
 
 
-See the video about this practice here: https://www.youtube.com/watch?v=Fzx5f14wohY
+See the video about this practice here: https://www.youtube.com/watch?v=zftjjollkMQ&list=PL98CDCbI3TNvPczWSOnpaMoyxVISLVzYQ
